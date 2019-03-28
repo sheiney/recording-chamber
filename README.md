@@ -1,4 +1,4 @@
-#3D printed recording chamber for mouse neurophysiology
+## 3D printed recording chamber for mouse neurophysiology
 
 These are 3D CAD drawings for a mouse-sized plastic chamber and cap that can be 3D printed very cheaply and chronically implanted over a craniotomy to keep the dural surface clean and healthy. The approximate inside diameter of the chamber is 3.5 mm. 
 
